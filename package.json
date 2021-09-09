@@ -1,0 +1,25 @@
+{
+  "name": "e-commerce-site",
+  "version": "1.0.0",
+  "description": "A back end for a e-commerce site that uses the latest technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flying-dink/e-commerce-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flying-dink/e-commerce-site/issues"
+  },
+  "homepage": "https://github.com/Flying-dink/e-commerce-site#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  }
+}
