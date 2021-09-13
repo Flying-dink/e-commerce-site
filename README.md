@@ -3,8 +3,8 @@ A back end for a e-commerce site that uses the latest technologies
 ## Description
 The application is used to GET data fro each route(categories,products or tags) as well as create, update and delete data in those routes.
 ![2021-09-12 (2)](https://user-images.githubusercontent.com/83742550/133019105-984037ff-f903-4ab7-8c4d-62929b5df762.png)
-
-
+Walk through video
+https://drive.google.com/file/d/17zkyuTdsn7sqwFnihJxWB1KC7yCA5QAq/view
 ## Installation
 Javascript, Node.js, Sequelize, MySQL2, Express, Dotenv
 ## Usage
